@@ -20,26 +20,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const snehaKumari = {
-  title: "CSE Undergraduate — Cybersecurity & Privacy Specialisation",
-  stack: {
-    languages: ["Java", "JavaScript", "Python (Basics)", "SQL (Basics)"],
-    backend: ["Node.js", "Express.js", "REST APIs", "MongoDB", "Mongoose"],
-    aiTools: ["OpenAI API", "Prompt Engineering", "LLM Threat Classification"],
-    devTools: ["Git", "GitHub", "Postman", "VS Code"],
-    concepts: ["Secure Coding", "API Testing", "Network Protocols", "System Design Basics"],
-  },
-  launchedProjects: ["er-ticket-classifier"],
-  certifications: [
-    "Introduction to Cybersecurity — Cisco (2024)",
-    "Networking Basics — Cisco (2025)",
-    "Networking Devices and Initial Configuration — Cisco (2025)",
-    "Linux Fundamentals — LearnQuest (2025)",
-    "Cybersecurity Threat Landscape — LinkedIn Learning (2026)",
-  ],
-  status: "3rd Year @ DIT University, Dehradun — B.Tech CSE (2023–2027)",
-  openTo: ["Backend Engineering Roles", "Cybersecurity Internships", "AI-Security Projects"],
-};
+Cybersecurity & Privacy specialist building the backend systems that keep applications safe — and the AI tools that catch what humans miss. Currently deep in LLM security, prompt injection defense, and secure API design.
 ```
 
 <br/>
