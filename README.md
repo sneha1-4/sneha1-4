@@ -20,7 +20,9 @@
 ## 🧠 Who I Am
 
 ```typescript
-Cybersecurity & Privacy specialist building the backend systems that keep applications safe — and the AI tools that catch what humans miss. Currently deep in LLM security, prompt injection defense, and secure API design.
+Cybersecurity & Privacy specialist building the backend systems
+that keep applications safe — and the AI tools that catch what humans miss.
+Currently deep in LLM security, prompt injection defense, and secure API design.
 ```
 
 <br/>
